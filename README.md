@@ -1,4 +1,17 @@
-## Hi there 👋
+Hello! I'm Alexander.
+
+I'm a student programmer passionate about web development and software creation.
+
+Frontend: Proficient in HTML, CSS, learning JavaScript.
+
+Languages: Python, C++, C# (studied in college).
+
+Interests: Web, software, games, and AI.
+
+
+I enjoy not only coding but also creating—drawing and writing stories. Open to communication and new projects!
+
+
 
 <!--
 **BRDN-A/BRDN-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
